@@ -1,8 +1,0 @@
-[
-  {"relation": "0", "description": "neutral means neither positive nor negative. e.g. He sat quietly, showing no particular reaction to the events around him. & The room was filled with a quiet stillness as everyone focused on their tasks."},
-  {"relation": "1", "description": "frustration means the feeling of annoyance at impossibility from resistance or inability to achieve something. e.g. She let out a sigh and ran her fingers through her hair, feeling exasperated with the situation. & He stared at the puzzle pieces scattered on the table, unable to find a solution."},
-  {"relation": "2", "description": "happiness means the emotion of being happy; joy; elation. e.g. A bright smile lit up her face as she received the good news. & He felt a warm glow in his chest when he saw his family gathered together."},
-  {"relation": "3", "description": "sadness means emotionally negative and feeling sorrow. e.g. He stared out the window, his heart heavy with a lingering sense of loss. & As she walked through the empty hall, a wave of nostalgia washed over her."},
-  {"relation": "4", "description": "anger means displaying or feeling anger. e.g. She clenched her fists and glared at him when she heard the unfair criticism. & His face turned red as he confronted the person who had betrayed his trust."},
-  {"relation": "5", "description": "excited means having great enthusiasm, passion and energy. e.g. Her heart raced as she opened the envelope containing the results. & He couldn't sit still, eagerly anticipating the start of the event."}
-]

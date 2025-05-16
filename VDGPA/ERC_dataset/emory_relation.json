@@ -1,9 +1,0 @@
-[
-  {"relation": "0", "description": "neutral means neither positive nor negative. e.g. He sat quietly, showing no particular reaction to the events around him. & The room was filled with a quiet stillness as everyone focused on their tasks."},
-  {"relation": "1", "description": "peaceful means motionless and calm. e.g. The gentle sound of the waves lapping against the shore filled her with calm. & Sitting under the shade of the old tree, he felt completely at ease."},
-  {"relation": "2", "description": "joy means a feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good. e.g. When she received the good news, a bright smile spread across her face. & At the celebration, laughter filled the room, creating a vibrant atmosphere."},
-  {"relation": "3", "description": "sadness means emotionally negative and feeling sorrow. e.g. He stared out the window, his heart heavy with a lingering sense of loss. & As she walked through the empty hall, a wave of nostalgia washed over her."},
-  {"relation": "4", "description": "scared means feeling afraid and frightened. e.g. A cold sweat broke out on his forehead as he heard footsteps behind him in the dark. & She held her breath, feeling a knot tighten in her stomach during the thunderstorm."},
-  {"relation": "5", "description": "mad means feeling angry and annoyed. e.g. He slammed the door shut, frustration boiling beneath the surface. & Her eyes flashed with irritation as she listened to the unfair remarks."},
-  {"relation": "6", "description": "powerful means having, or capable of exerting, power or influence. e.g. Standing at the edge of the cliff, she felt an overwhelming sense of strength and determination. & The speaker's voice resonated through the hall, commanding everyone’s attention."}
-]

@@ -1,0 +1,9 @@
+[
+  {"relation": "0", "description": "neutral means neither positive nor negative. e.g. He sat quietly, showing no particular reaction to the events around him. & The room was filled with a quiet stillness as everyone focused on their tasks."},
+  {"relation": "1", "description": "anger means displaying or feeling anger. e.g. She clenched her fists and glared at him when she heard the unfair criticism. & His face turned red as he confronted the person who had betrayed his trust."},
+  {"relation": "2", "description": "sadness means emotionally negative and feeling sorrow. e.g. He stared out the window, his heart heavy with a lingering sense of loss. & As she walked through the empty hall, a wave of nostalgia washed over her."},
+  {"relation": "3", "description": "fear means a strong, unpleasant emotion or feeling caused by actual or perceived danger or threat. e.g. In the dark alley, a sudden noise made his heart race with unease. & She felt a chill run down her spine as shadows flickered around her."},
+  {"relation": "4", "description": "joy means a feeling of extreme happiness or cheerfulness, especially related to the acquisition or expectation of something good. e.g. When she received the good news, a bright smile spread across her face. & At the celebration, laughter filled the room, creating a vibrant atmosphere."},
+  {"relation": "5", "description": "disgust means to cause an intense dislike for something. e.g. I couldn't believe it when my teammate ignored my advice during the game. & It drove me crazy when the internet kept disconnecting while I was working."},
+  {"relation": "6", "description": "surprise means the feeling that something unexpected has happened. e.g. The unexpected turn of events left him speechless, eyes wide in disbelief. & She could hardly believe her ears when she heard the astonishing news."}
+]
